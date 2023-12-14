@@ -7,4 +7,4 @@ title: GitHub 101
 3. hello-github-actions
 4. test-with-actions
    - 4.1 skills-test-with-actions
-5. github-pagees
+5. github-pages
