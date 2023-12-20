@@ -9,4 +9,4 @@ title: GitHub 101
 5. github-pages
 6. skills-review-pull-requests (pending)
 7. skills-resolve-merge-conflicts
-8. release-based-workflow
+8. release-based-workflow (understand)
