@@ -1,5 +1,5 @@
 ---
-title: GitHub 101
+GitHub 101
 ---
 
 1. skills-introduction-to-github
@@ -10,3 +10,5 @@ title: GitHub 101
 6. skills-review-pull-requests (pending)
 7. skills-resolve-merge-conflicts
 8. release-based-workflow (understand)
+9. skills-connect-the-dots (notes)
+10. skills-code-with-codespaces (notes)
