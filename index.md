@@ -12,3 +12,4 @@ GitHub 101
 8. release-based-workflow (understand)
 9. skills-connect-the-dots (notes)
 10. skills-code-with-codespaces (notes)
+11. skills-publish-packages (pending)
